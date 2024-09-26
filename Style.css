@@ -1,0 +1,15 @@
+.post {
+    background: #fff;
+    margin-bottom: 2%;
+    padding: 3%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+    opacity: 90%;}
+.post-title {
+  font-size: 24;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.post-content {
+  font-size: 16%;
+} 
